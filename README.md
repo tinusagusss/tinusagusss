@@ -13,8 +13,8 @@ Jika ada pertanyaan tentang salah satu repository saya, jangan ragu untuk menghu
 ### Status GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tinusagusss&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tinusagusss&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tinusagusss&show_icons=true&theme=default" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tinusagusss&theme=default" />
 </p>
-<img width="59%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinusagusss&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinusagusss&theme=default" />
 
